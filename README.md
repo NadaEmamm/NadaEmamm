@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nada
+I'm a full-stack developer with a passion for building modern web applications.
 
-<!--
-**NadaEmamm/NadaEmamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Frontend:** Angular, React, Vue.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, Laravel
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, Docker, Postman
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📚 [Bookstore E-commerce App](https://github.com/NadaEmamm/book-store-ecommerce-mean)
+- 🏨 [Hotel Management System](https://github.com/NadaEmamm/hotel_oasis)
+- 📚 [Cafeteria Management System](https://github.com/NadaEmamm/Cafeteria-System-Using-PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: nadaemam.me@gmail.com
+- LinkedIn: [linkedin](https://www.linkedin.com/in/nada-emam-6b0073217/)
+
